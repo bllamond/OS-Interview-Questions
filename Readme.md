@@ -1,3 +1,5 @@
+# Operating System Notes
+
 ### 1) What is an operating system?
 
 It is a program that provides an interface between the software and hardware of a computer. In other words, an operating system offers an environment for the user to execute software using hardware.
